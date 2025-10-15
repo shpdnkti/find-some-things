@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T06:19:34.118719+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-10-16T07:20:09.479880+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -40,19 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时19分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时19分 ~ 07时20分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -66,8 +55,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 07时20分]"
         },
         {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
@@ -77,8 +66,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26realpos%3D26%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26lcate%3D5001%26flag%3D0%26pos%3D26%26stream_entry_id%3D31%26display_time%3D1760553241%26pre_seqid%3D17605532414260055311",
+          "source": "微博",
+          "ranks": [
+            26,
+            24,
+            18,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时34分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时34分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -93,41 +109,15 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26realpos%3D26%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26lcate%3D5001%26flag%3D0%26pos%3D26%26stream_entry_id%3D31%26display_time%3D1760553241%26pre_seqid%3D17605532414260055311",
-          "source": "微博",
+          "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
+          "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            24,
-            18,
-            8,
-            7
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时34分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普称其可能出席最高法院关税案辩论",
-          "url": "https://flash.jin10.com/detail/20251016055644949800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "WTI原油期货在亚太盘初涨0.83%，暂报58.32美元，此前一度拉升至58.75美元。 隔夜，美国总统特朗普宣称，印度将停止购买俄罗斯石油。",
-          "url": "https://wallstreetcn.com/livenews/2988441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -174,6 +164,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普称泽连斯基将在访美期间阐述对俄“进攻”理由",
+          "url": "https://flash.jin10.com/detail/20251016063554472800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
           "url": "https://flash.jin10.com/detail/20251016050809195800",
           "source": "金十数据",
@@ -184,6 +185,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普称其可能出席最高法院关税案辩论",
+          "url": "https://flash.jin10.com/detail/20251016055644949800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "WTI原油期货在亚太盘初涨0.83%，暂报58.32美元，此前一度拉升至58.75美元。 隔夜，美国总统特朗普宣称，印度将停止购买俄罗斯石油。",
+          "url": "https://wallstreetcn.com/livenews/2988441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
@@ -270,6 +295,18 @@
           "time_info": "[01时19分 ~ 02时34分]"
         },
         {
+          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
+          "url": "https://flash.jin10.com/detail/20251016052515297800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://wallstreetcn.com/livenews/2988414",
           "source": "华尔街见闻-快讯",
@@ -280,6 +317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
+          "url": "https://flash.jin10.com/detail/20251016052451289800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "美国总统特朗普谈及股市上涨。",
@@ -367,7 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -394,17 +443,6 @@
           "time_info": "03时19分"
         },
         {
-          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
-          "url": "https://flash.jin10.com/detail/20251016052515297800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "美国财长贝森特：如果美国最高法院裁定反对国际紧急经济权力法（IEEPA）下的关税，特朗普政府可转而采取其他关税措施。",
           "url": "https://flash.jin10.com/detail/20251016000816972800",
           "source": "金十数据",
@@ -414,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
-          "url": "https://flash.jin10.com/detail/20251016052451289800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -480,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "阿根廷总统米莱：在美国白宫与特朗普的磋商侧重于贸易问题。 总统特朗普关于在阿根廷中期选举中有条件地支持我的说法并不正确。",
+          "url": "https://wallstreetcn.com/livenews/2988448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
@@ -606,7 +644,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -618,8 +656,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -659,22 +708,12 @@
           "url": "https://wallstreetcn.com/livenews/2988440",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2988438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
@@ -687,6 +726,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时18分]"
+        },
+        {
+          "title": "半导体ETF收跌约2.5%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2988438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
@@ -715,7 +766,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -738,8 +789,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -748,11 +799,12 @@
           "ranks": [
             27,
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 07时20分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -780,6 +832,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
+          "url": "https://wallstreetcn.com/livenews/2988450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -829,7 +892,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -871,6 +934,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
+          "url": "https://wallstreetcn.com/livenews/2988459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
