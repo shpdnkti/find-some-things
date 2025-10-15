@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:22:30.043191+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2025-10-15T14:32:42.146163+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时32分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -61,6 +61,18 @@
           "time_info": "[00时32分 ~ 12时06分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时32分]"
+        },
+        {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
           "url": "https://news.ifeng.com/c/8nSZnW70ZhT",
           "source": "凤凰网",
@@ -85,6 +97,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时37分 ~ 07时23分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -120,17 +144,6 @@
           "time_info": "[00时32分 ~ 03时21分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时22分]"
-        },
-        {
           "title": "美国总统特朗普：我们在南美洲取得了巨大进展。",
           "url": "https://flash.jin10.com/detail/20251015021413077800",
           "source": "金十数据",
@@ -140,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
@@ -173,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时22分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
@@ -442,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "美国总统特朗普：我们将在周五公布一份关闭民主党项目的清单。我们正在关闭我们不同意的民主党项目。",
@@ -811,8 +835,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时32分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -1144,11 +1168,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时32分]"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -1172,8 +1197,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时32分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1311,11 +1336,12 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时32分]"
         }
       ]
     }
