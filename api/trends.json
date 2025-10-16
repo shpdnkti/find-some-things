@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T12:25:38.734840+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-10-16T13:21:45.292150+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -72,6 +72,18 @@
           "time_info": "[01时19分 ~ 07时20分]"
         },
         {
+          "title": "特朗普宣布一个大消息，印度人都不敢相信",
+          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时21分]"
+        },
+        {
           "title": "特朗普威胁更换2028年奥运举办地",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26realpos%3D26%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26lcate%3D5001%26flag%3D0%26pos%3D26%26stream_entry_id%3D31%26display_time%3D1760553241%26pre_seqid%3D17605532414260055311",
           "source": "微博",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时34分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息，印度人都不敢相信",
-          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时25分]"
         },
         {
           "title": "特朗普施压米莱：选举没赢，美援就撤",
@@ -167,13 +167,27 @@
           "time_info": "02时34分"
         },
         {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时21分]"
+        },
+        {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
           "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -269,19 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时25分]"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
@@ -468,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "据CNN：美国总统特朗普表示，如果哈马斯不遵守停火协议，以色列军队将“随时听候我的命令”在加沙地带恢复战斗。",
@@ -726,7 +738,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -794,8 +806,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时21分]"
         },
         {
           "title": "下周金价会重演2015年行情吗",
@@ -822,15 +834,38 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 13时21分]"
+        },
+        {
           "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
           "url": "https://flash.jin10.com/detail/20251016114935655800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "金价除以10=历史性的1979年牛市？",
+          "url": "https://www.cls.cn/detail/2171118",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
@@ -842,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -894,7 +918,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
@@ -927,8 +951,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -1112,7 +1136,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1124,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 02时34分]"
+        },
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
