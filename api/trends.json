@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T07:20:12.469809+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-10-27T09:45:29.533032+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -24,22 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时20分]"
-        },
-        {
-          "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
-          "url": "https://news.ifeng.com/c/8nm4emMTaqf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -52,7 +42,19 @@
             14,
             21,
             23,
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
+          "url": "https://news.ifeng.com/c/8nm4emMTaqf",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -154,22 +156,24 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 09时45分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
           "url": "https://www.cls.cn/detail/2180721",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时45分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -182,6 +186,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "东盟峰会特朗普又来当主角",
+          "url": "https://www.toutiao.com/trending/7565671278867123758/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "韩国考虑授予特朗普“无穷花大勋章”",
+          "url": "https://www.toutiao.com/trending/7564722086686507044/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "特朗普的关税“套路”曝光",
+          "url": "https://www.toutiao.com/trending/7565671486447423027/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
@@ -195,11 +243,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -209,8 +258,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时45分]"
         }
       ]
     },
