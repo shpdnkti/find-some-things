@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T20:43:53.210812+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2025-10-31T21:31:38.284712+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时11分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[11时11分 ~ 21时31分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -96,6 +96,21 @@
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 21时31分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://wallstreetcn.com/articles/3758372",
           "source": "华尔街见闻",
           "ranks": [
@@ -106,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时39分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 21时31分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -132,20 +147,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时19分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时39分 ~ 20时43分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -217,11 +218,12 @@
             12,
             10,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时39分 ~ 20时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 21时31分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -357,6 +359,18 @@
           "time_info": "[12时26分 ~ 14时34分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时31分]"
+        },
+        {
           "title": "外交部回应特朗普重启核试验",
           "url": "https://www.douyin.com/hot/2288630",
           "source": "抖音",
@@ -399,18 +413,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时43分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -731,7 +733,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -794,7 +796,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -805,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 21时31分]"
         },
         {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
@@ -941,6 +943,18 @@
           "time_info": "[04时25分 ~ 05时20分]"
         },
         {
+          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时31分]"
+        },
+        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -950,6 +964,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
+          "url": "https://wallstreetcn.com/livenews/2997746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -985,6 +1021,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
           "url": "https://flash.jin10.com/detail/20251031043456886800",
           "source": "金十数据",
@@ -996,17 +1043,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -1016,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
+          "url": "https://flash.jin10.com/detail/20251031205708619800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "小马智行美股盘前涨超5%。",
@@ -1143,8 +1190,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时31分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -1213,8 +1260,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时31分]"
         },
         {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
@@ -1322,6 +1369,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国财长贝森特：与新加坡总理商谈了暂停采购俄罗斯和伊朗石油事宜。",
+          "url": "https://flash.jin10.com/detail/20251031205434035800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "伊朗外长：伊朗将随时响应公平且互相尊重的谈判",
+          "url": "https://wallstreetcn.com/livenews/2997250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1337,25 +1412,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时26分 ~ 20时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长：伊朗将随时响应公平且互相尊重的谈判",
-          "url": "https://wallstreetcn.com/livenews/2997250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "appearance_count": 12,
+          "time_info": "[12时26分 ~ 21时31分]"
         }
       ]
     }
