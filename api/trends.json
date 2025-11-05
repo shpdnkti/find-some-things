@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T22:22:09.059114+08:00",
-  "total_titles_processed": 2016,
+  "generated_at": "2025-11-05T23:21:57.102062+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时14分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[11时14分 ~ 23时21分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 22时22分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 23时21分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -84,6 +84,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
+          "url": "https://wallstreetcn.com/livenews/2999989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
           "url": "https://wallstreetcn.com/livenews/2999357",
           "source": "华尔街见闻-快讯",
@@ -119,6 +130,17 @@
           "time_info": "21时33分"
         },
         {
+          "title": "美国最高法院正式开始听取有关美国总统特朗普关税的论点。",
+          "url": "https://flash.jin10.com/detail/20251105230629956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
           "url": "https://news.ifeng.com/c/8o11vuaIumr",
           "source": "凤凰网",
@@ -136,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -147,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -158,7 +180,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -169,7 +191,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -431,6 +453,17 @@
           "time_info": "[02时54分 ~ 03时19分]"
         },
         {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -486,6 +519,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
           "url": "https://flash.jin10.com/detail/20251105064332489800",
           "source": "金十数据",
@@ -503,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -558,7 +602,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -624,7 +668,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -635,7 +679,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -654,7 +698,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -664,8 +708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 23时21分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -911,7 +955,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -933,7 +977,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1015,6 +1059,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨0.88%，半导体ETF涨0.61%，能源业ETF涨0.45%，区域银行ETF涨0.42%，科技行业ETF则跌0.14%，全球科技股指数ETF跌0.31%，网络股指数ETF跌0.34%",
+          "url": "https://wallstreetcn.com/livenews/2999967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美股期货跌幅扩大，标普500指数期货现跌0.5%，纳斯达克100指数期货跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/2999504",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1081,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "超微电脑美股盘初夏跌超4.5%，最近五个交易日迄今累计下跌大约10%。",
+          "url": "https://wallstreetcn.com/livenews/2999966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
           "url": "https://flash.jin10.com/detail/20251105095353867800",
           "source": "金十数据",
@@ -1035,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "美股三大股指走高，标普500指现涨0.2%，道指涨0.3%，纳指涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20251105225445325800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美股天价估值持续性遭质疑，日韩股市跟跌",
@@ -1131,7 +1208,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1142,7 +1219,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
@@ -1316,7 +1393,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1422,7 +1499,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
@@ -1470,6 +1547,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美元指数DXY短线拉升10余点，现报100.29。",
+          "url": "https://flash.jin10.com/detail/20251105230047866800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美元指数4日上涨",
           "url": "https://flash.jin10.com/detail/20251105043654258800",
           "source": "金十数据",
@@ -1495,7 +1583,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -1516,8 +1604,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
+          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
+          "url": "https://wallstreetcn.com/livenews/2999987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
@@ -1587,7 +1686,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
