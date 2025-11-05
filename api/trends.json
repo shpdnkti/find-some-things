@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T20:45:41.833272+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2025-11-05T21:33:46.163169+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 21时33分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时33分]"
         },
         {
           "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -288,8 +299,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时33分]"
         },
         {
           "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
@@ -555,7 +566,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -565,8 +576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时40分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[09时40分 ~ 21时33分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -647,6 +658,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2999898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时33分]"
+        },
+        {
           "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/2999423",
           "source": "华尔街见闻-快讯",
@@ -706,17 +729,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2999898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -767,7 +779,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -781,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "AMD(AMD.O)美股盘前跌超3%，公司三季度营收大超预期但指引不及市场预期激进；至少有一家券商下调了目标价。",
@@ -913,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
@@ -1245,8 +1279,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
+          "url": "https://wallstreetcn.com/livenews/2999928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
         {
           "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
           "url": "https://www.cls.cn/detail/2191412",
@@ -1316,8 +1361,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时33分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
