@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T14:33:20.818134+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-11-05T15:22:28.236578+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时22分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -55,8 +55,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时22分]"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
+          "url": "https://flash.jin10.com/detail/20251105151752442800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -231,6 +242,18 @@
           "time_info": "[00时28分 ~ 01时17分]"
         },
         {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时22分]"
+        },
+        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -303,17 +326,6 @@
           "time_info": "[02时54分 ~ 03时19分]"
         },
         {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
-        },
-        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -323,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
+          "url": "https://wallstreetcn.com/livenews/2999698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
@@ -471,7 +494,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -486,6 +509,17 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时22分]"
+        },
+        {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
           "url": "https://www.cls.cn/detail/2191216",
           "source": "财联社热门",
@@ -498,17 +532,6 @@
           "time_info": "[07时19分 ~ 14时33分]"
         },
         {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时33分]"
-        },
-        {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
           "url": "https://www.zhihu.com/question/1969182296755122552",
           "source": "知乎",
@@ -518,8 +541,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时22分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -545,8 +568,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时22分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -696,6 +719,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "诺和诺德第三季度销售额749.8亿丹麦克朗，预估766.8亿丹麦克朗。 第三季度净利润200.1亿丹麦克朗，预估208亿丹麦克朗。 第三季度EBIT 236.8亿丹麦克朗，预估256.1亿丹麦克朗。 第三季度GLP-1药物销售额367.4亿丹麦克朗，预估372.7亿丹麦克朗。 第三季度Wegovy销售额203.5亿丹麦克朗，预估209.4亿丹麦克朗。 诺和诺德预计全财年销售额（按固定汇率计算）增长8%-11%，此前预计增长8%-14%。 诺和诺德预计2025年资本支出为约600亿丹麦克朗，此前预计为650亿丹麦克朗。 诺和诺德美股夜盘跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2999684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
@@ -809,7 +843,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
@@ -824,6 +858,18 @@
           "time_info": "[11时14分 ~ 12时25分]"
         },
         {
+          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
           "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
           "source": "知乎",
@@ -833,17 +879,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
@@ -874,9 +909,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "宇树科技王兴兴：当下具身机器人发展阶段类似于ChatGPT发布前的1—3年左右",
+          "url": "https://wallstreetcn.com/livenews/2999692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "软银：和OpenAI共同推出合资企业“SB OAI Japan”。",
@@ -885,9 +931,95 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D21%26band_rank%3D21%26flag%3D1%26display_time%3D1762273383%26pre_seqid%3D176227338372007156503&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 09时40分]"
+        },
+        {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 11时14分]"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
+          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
+          "url": "https://flash.jin10.com/detail/20251105044443775800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金午盘价为910.37元/克，较国际金价(909.35元/克)，高1.02元/克",
+          "url": "https://flash.jin10.com/detail/20251105150159419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
@@ -900,11 +1032,12 @@
           "url": "https://www.cls.cn/detail/2191270",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 15时22分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -968,70 +1101,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D21%26band_rank%3D21%26flag%3D1%26display_time%3D1762273383%26pre_seqid%3D176227338372007156503&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时40分]"
-        },
-        {
-          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968706446079299701",
-          "source": "知乎",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 11时14分]"
-        },
-        {
-          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
-          "url": "https://wallstreetcn.com/livenews/2999422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
-          "url": "https://flash.jin10.com/detail/20251105101740650800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
-          "url": "https://flash.jin10.com/detail/20251105044443775800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1082,6 +1151,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2999388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://wallstreetcn.com/livenews/2999697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://flash.jin10.com/detail/20251105145544419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -1106,23 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2999388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         }
       ]
     }
