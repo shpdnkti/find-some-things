@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T02:31:35.550815+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-07T03:17:50.369845+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -26,30 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
-          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
-          "url": "https://flash.jin10.com/detail/20251107015432543800",
+          "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
+          "url": "https://flash.jin10.com/detail/20251107024330534800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3000699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时17分"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -59,8 +48,45 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
+        },
+        {
+          "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
+          "url": "https://flash.jin10.com/detail/20251107023254631800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
+          "url": "https://wallstreetcn.com/livenews/3000680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
+          "url": "https://wallstreetcn.com/livenews/3000679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时17分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
@@ -75,28 +101,40 @@
           "time_info": "[01时23分 ~ 02时31分]"
         },
         {
-          "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
-          "url": "https://wallstreetcn.com/livenews/3000680",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
+          "url": "https://flash.jin10.com/detail/20251107015432543800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            20
+            5,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时31分]"
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
-          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
-          "url": "https://wallstreetcn.com/livenews/3000679",
+          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3000699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            21
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时31分]"
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
+          "url": "https://wallstreetcn.com/livenews/3000696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "美国众议长约翰逊：现在，对结束“特朗普政府关门”的乐观情绪更低。",
@@ -135,6 +173,54 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
+          "url": "https://flash.jin10.com/detail/20251107013741993800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107013332153800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "特朗普会否成为“跛脚总统”",
+          "url": "https://www.toutiao.com/trending/7569576151731932699/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
+          "url": "https://flash.jin10.com/detail/20251107013319980800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
           "url": "https://flash.jin10.com/detail/20251107011357287800",
           "source": "金十数据",
@@ -146,6 +232,28 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
+          "url": "https://wallstreetcn.com/livenews/3000712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "特朗普赞莫迪减购俄油，称可能明年前往印度",
+          "url": "https://wallstreetcn.com/livenews/3000711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国总统特朗普：医疗保险和医疗补助将涵盖这些减肥药物。",
           "url": "https://flash.jin10.com/detail/20251107011115320800",
           "source": "金十数据",
@@ -155,17 +263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
-          "url": "https://wallstreetcn.com/livenews/3000696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
         },
         {
           "title": "美国总统特朗普：Zepbound和Wegovy价格将下调。",
@@ -223,46 +320,13 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
-          "url": "https://flash.jin10.com/detail/20251107013741993800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251107013332153800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
-          "url": "https://flash.jin10.com/detail/20251107013319980800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
           "url": "https://wallstreetcn.com/livenews/3000676",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -273,20 +337,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "特朗普会否成为“跛脚总统”",
-          "url": "https://www.toutiao.com/trending/7569576151731932699/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。 最高法院作出裁决之前，不会宣布新的关税措施。",
+          "url": "https://wallstreetcn.com/livenews/3000682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时17分"
         },
         {
           "title": "特朗普政府的人工智能官员表示，联邦政府不会对人工智能行业实施救助。",
@@ -325,8 +389,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -337,8 +401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -377,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -390,8 +454,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -427,11 +491,12 @@
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
@@ -440,7 +505,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -451,7 +516,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -470,18 +535,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
+          "url": "https://wallstreetcn.com/livenews/3000717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
           "url": "https://wallstreetcn.com/livenews/3000693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时17分]"
         },
         {
           "title": "谷歌：Deep Search将在未来几周内于新版谷歌财经中推出，谷歌AI Pro和AI Ultra订阅用户将享有更高的使用上限。",
@@ -506,11 +583,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时17分]"
         }
       ]
     }
