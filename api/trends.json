@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T22:18:11.988593+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-11-08T23:21:20.261624+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时19分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[17时19分 ~ 23时21分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -76,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时18分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[15时18分 ~ 23时21分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -111,6 +111,17 @@
           "time_info": "[09时26分 ~ 17时20分]"
         },
         {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时37分 ~ 23时21分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -118,11 +129,24 @@
             1,
             4,
             6,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时21分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时21分]"
         },
         {
           "title": "特朗普被问急眼了怒喷记者",
@@ -134,17 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
-          "url": "https://wallstreetcn.com/livenews/3001591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -162,15 +175,15 @@
           "time_info": "[16时26分 ~ 20时38分]"
         },
         {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
+          "url": "https://flash.jin10.com/detail/20251108220636044800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -709,8 +722,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时19分 ~ 22时18分]"
+          "appearance_count": 22,
+          "time_info": "[07时19分 ~ 23时21分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -902,8 +915,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗总统：“美国想让伊朗一直跪着”",
+          "url": "https://wallstreetcn.com/livenews/3001596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
         {
           "title": "形势危急！伊朗总统：可能从德黑兰撤离",
           "url": "https://news.ifeng.com/c/8o6zKd55xJa",
@@ -979,8 +1003,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时19分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[17时19分 ~ 23时21分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -1024,8 +1048,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时25分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[16时25分 ~ 23时21分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
