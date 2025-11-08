@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T05:19:00.725052+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-11-09T06:19:43.016871+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -49,8 +49,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
+          "url": "https://wallstreetcn.com/livenews/3001591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            9,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -64,20 +79,6 @@
           "time_info": "[00时23分 ~ 04时22分]"
         },
         {
-          "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
-          "url": "https://wallstreetcn.com/livenews/3001591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时19分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
           "url": "https://flash.jin10.com/detail/20251108183318165800",
           "source": "金十数据",
@@ -85,8 +86,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "特朗普开始调整“话术”以争取选民",
@@ -117,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -128,11 +129,12 @@
             2,
             5,
             6,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     },
@@ -149,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     },
@@ -166,8 +168,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     },
@@ -184,8 +186,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 06时19分]"
         }
       ]
     }
