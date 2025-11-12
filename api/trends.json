@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T09:40:38.130285+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-11-12T11:14:13.793857+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -48,11 +48,12 @@
             15,
             14,
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时14分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -92,6 +93,17 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时14分]"
+        },
+        {
           "title": "特朗普回应高市早苗涉台错误言论",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D27%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25B6%2589%25E5%258F%25B0%25E9%2594%2599%25E8%25AF%25AF%25E8%25A8%2580%25E8%25AE%25BA%2523%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26pos%3D26%26realpos%3D27%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762888037%26pre_seqid%3D1762888037354025322115&launchid=10000360-page_H5",
           "source": "微博",
@@ -118,15 +130,15 @@
           "time_info": "[00时27分 ~ 06时20分]"
         },
         {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D4%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26c_type%3D31%26pos%3D4%26dgr%3D0%26cate%3D5001%26realpos%3D4%26display_time%3D1762917071%26pre_seqid%3D1762917071334025073123&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -160,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -355,6 +367,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3003110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "特朗普：（谈众议院对拨款法案进行投票）我认为他们会投赞成票。",
           "url": "https://flash.jin10.com/detail/20251112022207649800",
           "source": "金十数据",
@@ -427,9 +450,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112101904646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
@@ -449,7 +483,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -460,7 +494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         }
@@ -476,11 +510,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 11时14分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -587,11 +622,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时14分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -630,6 +666,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时14分]"
+        },
+        {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
           "url": "https://wallstreetcn.com/livenews/3002934",
           "source": "华尔街见闻-快讯",
@@ -652,17 +700,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         }
       ]
     },
@@ -785,7 +822,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -810,6 +847,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26pos%3D22%26dgr%3D0%26cate%3D5001%26realpos%3D21%26display_time%3D1762917071%26pre_seqid%3D1762917071334025073123&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时14分]"
         }
       ]
     },
@@ -852,9 +901,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时14分]"
         }
       ]
     }
