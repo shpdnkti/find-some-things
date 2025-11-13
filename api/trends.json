@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T13:22:05.082619+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-11-13T14:33:36.861532+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[01时20分 ~ 14时33分]"
         },
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -62,22 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时22分]"
-        },
-        {
-          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3003872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -117,6 +107,18 @@
           "time_info": "[03时18分 ~ 04时24分]"
         },
         {
+          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时33分]"
+        },
+        {
           "title": "特朗普“最恨的女人”要退休了",
           "url": "https://www.toutiao.com/trending/7571102416779952154/",
           "source": "今日头条",
@@ -133,11 +135,12 @@
           "url": "https://www.toutiao.com/trending/7572030694445272627/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
@@ -242,7 +245,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -256,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -514,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -599,7 +613,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.1",
@@ -661,6 +675,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时16分 ~ 13时22分]"
+        },
+        {
+          "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -891,11 +916,12 @@
           "url": "https://flash.jin10.com/detail/20251113131413542800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时33分]"
         }
       ]
     }
