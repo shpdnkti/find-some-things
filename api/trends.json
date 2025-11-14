@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:24:08.609712+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2025-11-14T19:19:31.838231+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 19时19分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时19分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时19分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -106,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -452,7 +452,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -564,6 +564,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251114183904894800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3004394",
           "source": "华尔街见闻-快讯",
@@ -655,7 +666,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -684,6 +695,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 14时33分]"
+        },
+        {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
@@ -799,7 +821,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
