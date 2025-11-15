@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T07:19:36.428251+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2025-11-15T09:29:31.823106+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://flash.jin10.com/detail/20251115090032024800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
@@ -28,6 +39,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时29分]"
         },
         {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
@@ -52,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时19分]"
         },
         {
           "title": "特朗普拟削减部分食品杂货的关税",
@@ -174,6 +186,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://wallstreetcn.com/livenews/3005113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
           "url": "https://flash.jin10.com/detail/20251114235126304800",
           "source": "金十数据",
@@ -273,6 +296,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
+          "url": "https://wallstreetcn.com/livenews/3005094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
           "title": "市场消息：美国总统特朗普准备削减牛肉、西红柿、咖啡和香蕉的关税。",
           "url": "https://flash.jin10.com/detail/20251115030538098800",
           "source": "金十数据",
@@ -282,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普：在委内瑞拉问题上取得了很大进展。",
+          "url": "https://wallstreetcn.com/livenews/3005093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
@@ -309,7 +354,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -328,11 +373,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时29分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -340,11 +386,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时29分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -364,7 +411,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -379,6 +426,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
+          "url": "https://www.cls.cn/detail/2201442",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 09时29分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -404,15 +463,15 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
+          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
+          "url": "https://wallstreetcn.com/livenews/3005095",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "09时29分"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -462,7 +521,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -471,11 +530,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时29分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -484,7 +544,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -555,9 +615,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -583,7 +654,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
