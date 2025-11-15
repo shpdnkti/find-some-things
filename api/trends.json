@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T09:29:31.823106+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-11-15T11:08:53.098575+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,19 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://flash.jin10.com/detail/20251115090032024800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
@@ -41,6 +30,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
+          "url": "https://flash.jin10.com/detail/20251115094016472800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
           "url": "https://flash.jin10.com/detail/20251115034601291800",
           "source": "金十数据",
@@ -52,6 +52,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时24分 ~ 09时29分]"
+        },
+        {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://flash.jin10.com/detail/20251115090032024800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时08分]"
         },
         {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
@@ -101,6 +113,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://wallstreetcn.com/livenews/3005113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时08分]"
         },
         {
           "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
@@ -186,17 +210,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://wallstreetcn.com/livenews/3005113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
           "url": "https://flash.jin10.com/detail/20251114235126304800",
           "source": "金十数据",
@@ -263,6 +276,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
           "url": "https://flash.jin10.com/detail/20251115014832583800",
           "source": "金十数据",
@@ -302,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -324,7 +348,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -354,7 +378,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -368,19 +392,6 @@
           "time_info": "[01时19分 ~ 07时19分]"
         },
         {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时29分]"
-        },
-        {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
           "url": "https://wallstreetcn.com/articles/3759375",
           "source": "华尔街见闻",
@@ -390,8 +401,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -433,11 +458,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 11时08分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -463,15 +489,48 @@
           "time_info": "[05时19分 ~ 05时20分]"
         },
         {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
           "url": "https://wallstreetcn.com/livenews/3005095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251115094829363800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251115094343913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -516,12 +575,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美股暴涨暴跌意味着什么",
+          "url": "https://www.toutiao.com/trending/7572733950527802886/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -534,8 +604,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 11时08分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -547,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         },
         {
           "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
@@ -597,6 +678,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时08分]"
+        },
+        {
           "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
           "url": "https://wallstreetcn.com/livenews/3005043",
           "source": "华尔街见闻-快讯",
@@ -620,15 +713,43 @@
           "time_info": "07时19分"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
+          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
+          "url": "https://flash.jin10.com/detail/20251115093238774800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
+          "url": "https://wallstreetcn.com/livenews/3005134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26realpos%3D30%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763146666%26pre_seqid%3D17631466660710330674316&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -657,23 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26realpos%3D30%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763146666%26pre_seqid%3D17631466660710330674316&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         }
       ]
     },
