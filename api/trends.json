@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T21:25:13.513168+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-11-16T22:18:02.766433+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -37,15 +37,15 @@
           "time_info": "[00时23分 ~ 12时27分]"
         },
         {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
           "source": "凤凰网",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[17时20分 ~ 22时18分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -57,19 +57,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 21时25分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
           "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 21时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时16分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
+          "url": "https://flash.jin10.com/detail/20251116221017649800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -301,11 +312,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时18分]"
         },
         {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
@@ -418,8 +430,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 21时25分]"
+          "appearance_count": 28,
+          "time_info": "[00时23分 ~ 22时18分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -478,8 +490,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 21时25分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
