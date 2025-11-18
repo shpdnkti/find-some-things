@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:21:17.059390+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-11-18T14:32:30.564580+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -121,6 +121,19 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普威胁更换世界杯比赛城市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 14时32分]"
+        },
+        {
           "title": "美国总统特朗普：将“强烈”支持反对那些不允许重新划分选区的印第安纳州国会议员。",
           "url": "https://flash.jin10.com/detail/20251118001800685800",
           "source": "金十数据",
@@ -191,18 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普威胁更换世界杯比赛城市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：关于委内瑞拉，我不能排除任何可能性。",
@@ -276,6 +277,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普威胁拉美三国",
+          "url": "https://wallstreetcn.com/livenews/3006282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗：愿与特朗普“面对面”对话",
           "url": "https://flash.jin10.com/detail/20251118085402345800",
           "source": "金十数据",
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "印尼外交部：印尼欢迎联合国安理会通过特朗普的加沙计划。",
+          "url": "https://flash.jin10.com/detail/20251118132513968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "美联储理事沃勒：支持FOMC在12月为了“风险管理”而再次降息。 美国劳动力市场仍然疲软，接近停滞速度。 剔除关税因素的基础通胀接近2%这一目标。 中期、长期通胀预期被锚定。 剔除（美国总统特朗普的）政府关门事件的影响之后，GDP（仍然）可能已经在2025年下半年放缓。 大部分家庭难以购房，也难以购车。 没有看到任何能够让美国通胀加速的因素。 工人需求的降速超过供应的下降速度。 许多企业裁员，或者允许人头数下降。",
@@ -565,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 13时21分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 14时32分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -578,8 +601,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时32分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -590,8 +613,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时32分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -616,6 +639,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3006250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时32分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
@@ -683,18 +718,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -911,8 +935,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时32分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -995,7 +1019,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1026,8 +1050,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时32分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
@@ -1055,8 +1079,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 14时32分]"
         }
       ]
     },
