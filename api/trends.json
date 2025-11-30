@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:26:07.039206+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-11-30T17:20:19.855533+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -94,6 +94,18 @@
           "time_info": "[00时25分 ~ 09时51分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普向委内瑞拉发出威胁信号",
           "url": "https://flash.jin10.com/detail/20251129210108575800",
           "source": "金十数据",
@@ -158,18 +170,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时26分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -250,8 +250,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 17时20分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -294,8 +294,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时20分]"
         }
       ]
     },
@@ -308,11 +308,12 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
         }
       ]
     },
