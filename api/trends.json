@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:32:14.090953+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2025-11-30T15:19:29.103067+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             7,
             18,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 15时19分]"
         },
         {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
@@ -162,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -222,8 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时19分]"
         }
       ]
     },
@@ -243,11 +245,12 @@
             8,
             14,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -290,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
         }
       ]
     },
