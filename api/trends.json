@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T13:21:32.671554+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2025-12-03T14:35:09.936136+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 14时35分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 14时35分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -63,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时35分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -74,11 +75,12 @@
             13,
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 14时35分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -589,6 +591,17 @@
           "time_info": "[02时34分 ~ 03时20分]"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
           "url": "https://flash.jin10.com/detail/20251203015450977800",
           "source": "金十数据",
@@ -661,7 +674,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -925,6 +938,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时35分]"
+        },
+        {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
@@ -937,18 +962,6 @@
           "time_info": "[00时31分 ~ 06时19分]"
         },
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时21分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
@@ -958,8 +971,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 14时35分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1127,6 +1140,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时35分]"
+        },
+        {
           "title": "谷歌揭秘了AI竞赛的底牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
           "source": "澎湃新闻",
@@ -1140,18 +1165,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时20分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时21分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1184,8 +1197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 14时35分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
