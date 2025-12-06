@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:20:18.919044+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2025-12-06T16:27:05.384949+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             22,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 16时27分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -37,11 +38,12 @@
           "url": "https://www.zhihu.com/question/1979570545172423754",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 16时27分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -99,6 +101,20 @@
           "time_info": "[11时11分 ~ 15时20分]"
         },
         {
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 16时27分]"
+        },
+        {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
           "url": "https://flash.jin10.com/detail/20251206022018049800",
           "source": "金十数据",
@@ -137,19 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时11分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -509,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 16时27分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -522,8 +525,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时38分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 16时27分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -537,8 +540,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 16时27分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -709,8 +712,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 16时27分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -773,8 +776,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 16时27分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
