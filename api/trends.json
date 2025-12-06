@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T14:30:57.013916+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-06T15:20:18.919044+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时20分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -30,6 +31,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            13,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时20分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -57,18 +84,19 @@
           "time_info": "11时11分"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            13,
-            18
+            4,
+            12,
+            16,
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时20分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -81,20 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时18分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时30分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -130,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -142,11 +157,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -493,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时20分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -506,8 +522,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[09时38分 ~ 15时20分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -517,11 +533,12 @@
             13,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时20分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -682,6 +699,20 @@
           "time_info": "[04时25分 ~ 07时20分]"
         },
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时20分]"
+        },
+        {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
           "url": "https://flash.jin10.com/detail/20251206034235677800",
           "source": "金十数据",
@@ -717,19 +748,6 @@
           "time_info": "[07时20分 ~ 09时38分]"
         },
         {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
           "url": "https://wallstreetcn.com/livenews/3016148",
           "source": "华尔街见闻-快讯",
@@ -755,8 +773,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 15时20分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
