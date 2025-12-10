@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T12:34:52.918864+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-12-10T13:23:19.452541+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -170,17 +170,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
-          "url": "https://flash.jin10.com/detail/20251210121528240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
           "url": "https://flash.jin10.com/detail/20251210055642373800",
           "source": "金十数据",
@@ -215,6 +204,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时23分]"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -263,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时19分]"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时23分]"
         },
         {
           "title": "特朗普：北约叫我爸爸",
@@ -502,7 +515,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -516,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
@@ -549,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
@@ -590,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 13时23分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -850,11 +863,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 13时23分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -926,8 +940,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1016,7 +1030,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
