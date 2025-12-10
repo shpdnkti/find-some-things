@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T14:35:28.070568+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-10T15:24:44.681040+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[00时29分 ~ 07时51分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -42,19 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 14时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -133,6 +133,17 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -170,17 +181,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
           "url": "https://flash.jin10.com/detail/20251210055642373800",
           "source": "金十数据",
@@ -215,6 +215,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时24分]"
         },
         {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
@@ -355,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -528,7 +529,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -572,7 +573,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -913,8 +914,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 15时24分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -986,8 +987,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 15时24分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1011,6 +1012,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
@@ -1066,19 +1095,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
           "source": "金十数据",
           "ranks": [
-            28
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "15时24分"
         }
       ]
     }
