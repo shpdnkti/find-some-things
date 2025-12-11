@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T12:36:33.744812+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-12-11T13:24:35.847398+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -43,6 +43,18 @@
           "time_info": "[09时46分 ~ 09时47分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
           "title": "高市早苗求见特朗普",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -65,15 +77,17 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -96,19 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -236,6 +237,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "据英国金融时报：英国承诺在与美国总统特朗普达成关税协议后，额外投入15亿英镑用于国民医疗服务体系药品。",
+          "url": "https://flash.jin10.com/detail/20251211130201705800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
+          "url": "https://wallstreetcn.com/livenews/3018939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
@@ -560,8 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -572,8 +595,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 13时24分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -909,11 +932,12 @@
           "source": "微博",
           "ranks": [
             21,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时24分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
