@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T09:46:04.420890+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-12T11:24:49.682609+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时24分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -152,22 +153,22 @@
           "time_info": "[00时33分 ~ 02时32分]"
         },
         {
-          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1982382778923365984",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时24分]"
+        },
+        {
+          "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1982382778923365984",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -328,6 +329,28 @@
           "time_info": "04时26分"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
           "url": "https://flash.jin10.com/detail/20251212045820378800",
           "source": "金十数据",
@@ -345,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -372,6 +395,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普计划推动将大麻重新归类为危害较低的药物",
+          "url": "https://flash.jin10.com/detail/20251212102622267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "美国总统特朗普：我从拜登政府那里继承了一个烂摊子——历史上最严重的通货膨胀和我国有史以来最高的物价。",
           "url": "https://flash.jin10.com/detail/20251212024001002800",
           "source": "金十数据",
@@ -389,7 +423,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -452,18 +486,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
           "url": "https://www.cls.cn/detail/2227243",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时24分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -547,6 +582,17 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
           "url": "https://flash.jin10.com/detail/20251212020607458800",
           "source": "金十数据",
@@ -556,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/1982718694623768873",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
@@ -600,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -705,8 +773,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -905,7 +973,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -989,6 +1057,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
           "url": "https://flash.jin10.com/detail/20251212010242999800",
           "source": "金十数据",
@@ -1061,7 +1140,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -1147,6 +1226,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
+          "url": "https://flash.jin10.com/detail/20251212102205776800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
