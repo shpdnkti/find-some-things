@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T11:17:51.483511+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-12-13T12:27:52.626202+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时27分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -71,44 +72,35 @@
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时27分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
           "url": "https://news.ifeng.com/c/8p2to1Pzvac",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火 泰方否认",
-          "url": "https://flash.jin10.com/detail/20251213092752773800",
-          "source": "金十数据",
-          "ranks": [
+            2,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时27分]"
         },
         {
-          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
-          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "12时27分"
         },
         {
           "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
@@ -163,6 +155,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火 泰方否认",
+          "url": "https://flash.jin10.com/detail/20251213092752773800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时27分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -241,6 +245,18 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
+          "url": "https://flash.jin10.com/detail/20251213092310404800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时27分]"
+        },
+        {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://wallstreetcn.com/livenews/3020102",
           "source": "华尔街见闻-快讯",
@@ -285,22 +301,36 @@
           "source": "抖音",
           "ranks": [
             7,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 12时27分]"
         },
         {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
           "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 12时27分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时17分]"
+          "time_info": "[11时17分 ~ 12时27分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -348,17 +378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时17分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -473,8 +492,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时27分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -503,6 +522,19 @@
           "time_info": "02时34分"
         },
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时27分]"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
           "url": "https://flash.jin10.com/detail/20251213033638415800",
           "source": "金十数据",
@@ -513,19 +545,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 09时40分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时17分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -600,17 +619,6 @@
           "time_info": "[02时33分 ~ 06时21分]"
         },
         {
-          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
@@ -620,8 +628,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 11时17分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 12时27分]"
+        },
+        {
+          "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时21分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
@@ -721,8 +740,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时27分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -776,7 +795,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -849,7 +868,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
