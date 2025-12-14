@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T21:29:06.077445+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-14T22:20:10.913044+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时52分 ~ 16时28分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -79,8 +90,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时39分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时39分 ~ 22时20分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时52分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 21时29分]"
         },
         {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
@@ -230,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20251214211648647800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
@@ -544,11 +555,12 @@
           "url": "https://wallstreetcn.com/articles/3761367",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时20分]"
         }
       ]
     },
@@ -567,8 +579,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时21分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[13时21分 ~ 22时20分]"
         }
       ]
     }
