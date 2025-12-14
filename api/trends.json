@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-14T12:38:03.070959+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2025-12-14T13:22:04.883136+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 25,
       "titles": [
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 13时22分]"
+        },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
@@ -89,17 +100,6 @@
           "time_info": "[00时25分 ~ 09时52分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 12时38分]"
-        },
-        {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
           "url": "https://flash.jin10.com/detail/20251213211438744800",
           "source": "金十数据",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时52分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 13时22分]"
         },
         {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
@@ -147,15 +158,16 @@
           "time_info": "[12时37分 ~ 12时38分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 13时22分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -182,18 +194,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 12时38分]"
-        },
-        {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
           "url": "https://wallstreetcn.com/livenews/3020226",
           "source": "华尔街见闻-快讯",
@@ -212,8 +212,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时22分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -223,8 +223,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时22分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -232,11 +232,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时22分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -321,8 +322,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 13时22分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -343,8 +344,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时22分]"
         }
       ]
     },
@@ -361,8 +362,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 13时22分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -387,11 +388,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "time_info": "[13时21分 ~ 13时22分]"
         }
       ]
     }
