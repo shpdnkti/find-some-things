@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T21:42:14.028714+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-12-15T22:28:02.213101+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 21时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时49分 ~ 22时28分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
@@ -52,8 +52,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[14时37分 ~ 22时28分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 22时28分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -83,17 +94,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 06时20分]"
-        },
-        {
-          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 21时42分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -161,6 +161,19 @@
           "time_info": "[04时23分 ~ 07时20分]"
         },
         {
+          "title": "曝特朗普曾警告高市早苗别来添乱",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 22时28分]"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
@@ -196,18 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时20分 ~ 21时42分]"
-        },
-        {
-          "title": "曝特朗普曾警告高市早苗别来添乱",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 21时42分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
@@ -247,7 +248,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -305,15 +306,38 @@
           "time_info": "[09时49分 ~ 15时26分]"
         },
         {
+          "title": "英伟达发布Nemotron 3开源模型系列。 英伟达美股盘前涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3021038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[21时13分 ~ 22时28分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3021037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -328,6 +352,39 @@
           "time_info": "[17时34分 ~ 18时28分]"
         },
         {
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
+          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
+          "url": "https://www.cls.cn/detail/2229723",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215220345346800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
           "url": "https://flash.jin10.com/detail/20251215170334528800",
           "source": "金十数据",
@@ -337,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前涨约1.5%。",
+          "url": "https://flash.jin10.com/detail/20251215220241979800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -368,6 +436,18 @@
           "time_info": "[18时28分 ~ 19时21分]"
         },
         {
+          "title": "伊朗一工业园区发生中毒事故 致9人死亡",
+          "url": "https://wallstreetcn.com/livenews/3021010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时28分]"
+        },
+        {
           "title": "伊朗外长抵达白俄罗斯总统府会见卢卡申科。",
           "url": "https://flash.jin10.com/detail/20251215155631635800",
           "source": "金十数据",
@@ -377,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "伊朗一工业园区发生中毒事故 致9人死亡",
-          "url": "https://wallstreetcn.com/livenews/3021010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "伊朗外交部：伊朗外长前往明斯克与白俄罗斯高级官员进行磋商，并于今天上午与白俄罗斯总统卢卡申科举行了会晤和会谈。会议上，白俄罗斯总统提到了非常良好的明斯克-德黑兰关系，强调白俄罗斯愿意在所有共同关心的领域，特别是在经济和商业领域发展和扩大关系。",
@@ -473,7 +542,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
