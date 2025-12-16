@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:28:36.973782+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-12-16T18:28:07.843358+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时46分 ~ 17时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时46分 ~ 18时28分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -96,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 18时28分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -130,6 +130,17 @@
           "time_info": "[00时33分 ~ 05时21分]"
         },
         {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "日媒：高市被特朗普警告后情绪低落",
           "url": "https://www.toutiao.com/trending/7584090116184985142/",
           "source": "今日头条",
@@ -151,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
@@ -440,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216180101240800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普：与欧洲领导人进行了良好的会谈。",
@@ -824,7 +835,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -935,6 +946,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -956,17 +978,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时21分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
@@ -1003,7 +1014,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1097,7 +1108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
