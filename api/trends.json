@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:39:31.367129+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-25T13:25:43.290575+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 13时25分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -75,7 +75,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -185,6 +185,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时25分]"
+        },
+        {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
           "url": "https://www.cls.cn/detail/2239383",
           "source": "财联社热门",
@@ -197,17 +208,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时21分 ~ 12时39分]"
-        },
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时39分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -423,11 +423,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时25分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -436,11 +437,12 @@
           "ranks": [
             30,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时25分]"
         },
         {
           "title": "金价又创历史新高",
